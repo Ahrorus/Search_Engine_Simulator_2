@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Search_Engine_Simulator_2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Search_Engine_Simulator_2_jar</output-path>
+    <root id="archive" name="SearchEngineSimulator2.jar">
+      <element id="module-output" name="Search_Engine_Simulator_2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../jsoup/jsoup-1.13.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
